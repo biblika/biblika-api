@@ -1,0 +1,796 @@
+{
+    "book": [
+        {
+            "number": 1,
+            "abbr": {
+                "id": "Kej",
+                "en": "Gen"
+            },
+            "name": {
+                "id": "Kejadian",
+                "en": "Genesis"
+            },
+            "chapter": 50
+        },
+        {
+            "number": 2,
+            "abbr": {
+                "id": "Kel",
+                "en": "Exo"
+            },
+            "name": {
+                "id": "Keluaran",
+                "en": "Exodus"
+            },
+            "chapter": 40
+        },
+        {
+            "number": 3,
+            "abbr": {
+                "id": "Ima",
+                "en": "Lev"
+            },
+            "name": {
+                "id": "Imamat",
+                "en": "Leviticus"
+            },
+            "chapter": 27
+        },
+        {
+            "number": 4,
+            "abbr": {
+                "id": "Bil",
+                "en": "Num"
+            },
+            "name": {
+                "id": "Bilangan",
+                "en": "Numbers"
+            },
+            "chapter": 36
+        },
+        {
+            "number": 5,
+            "abbr": {
+                "id": "Ula",
+                "en": "Deu"
+            },
+            "name": {
+                "id": "Ulangan",
+                "en": "Deuteronomy"
+            },
+            "chapter": 34
+        },
+        {
+            "number": 6,
+            "abbr": {
+                "id": "Yos",
+                "en": "Jos"
+            },
+            "name": {
+                "id": "Yosua",
+                "en": "Joshua"
+            },
+            "chapter": 24
+        },
+        {
+            "number": 7,
+            "abbr": {
+                "id": "Hak",
+                "en": "Jdg"
+            },
+            "name": {
+                "id": "Hakim-hakim",
+                "en": "Judges"
+            },
+            "chapter": 21
+        },
+        {
+            "number": 8,
+            "abbr": {
+                "id": "Rut",
+                "en": "Rth"
+            },
+            "name": {
+                "id": "Rut",
+                "en": "Ruth"
+            },
+            "chapter": 4
+        },
+        {
+            "number": 9,
+            "abbr": {
+                "id": "1 Sam",
+                "en": "1 Sam"
+            },
+            "name": {
+                "id": "1 Samuel",
+                "en": "1 Samuel"
+            },
+            "chapter": 31
+        },
+        {
+            "number": 10,
+            "abbr": {
+                "id": "2 Sam",
+                "en": "2 Sam"
+            },
+            "name": {
+                "id": "2 Samuel",
+                "en": "2 Samuel"
+            },
+            "chapter": 24
+        },
+        {
+            "number": 11,
+            "abbr": {
+                "id": "1 Raj",
+                "en": "1 Kgs"
+            },
+            "name": {
+                "id": "1 Raja-Raja",
+                "en": "1 Kings"
+            },
+            "chapter": 22
+        },
+        {
+            "number": 12,
+            "abbr": {
+                "id": "2 Raj",
+                "en": "2 Kgs"
+            },
+            "name": {
+                "id": "2 Raja-Raja",
+                "en": "2 Kings"
+            },
+            "chapter": 25
+        },
+        {
+            "number": 13,
+            "abbr": {
+                "id": "1 Taw",
+                "en": "1 Chr"
+            },
+            "name": {
+                "id": "1 Tawarikh",
+                "en": "1 Chronicles"
+            },
+            "chapter": 29
+        },
+        {
+            "number": 14,
+            "abbr": {
+                "id": "2 Taw",
+                "en": "2 Chr"
+            },
+            "name": {
+                "id": "2 Tawarikh",
+                "en": "2 Chronicles"
+            },
+            "chapter": 36
+        },
+        {
+            "number": 15,
+            "abbr": {
+                "id": "Ezr",
+                "en": "Ezr"
+            },
+            "name": {
+                "id": "Ezra",
+                "en": "Ezra"
+            },
+            "chapter": 10
+        },
+        {
+            "number": 16,
+            "abbr": {
+                "id": "Neh",
+                "en": "Neh"
+            },
+            "name": {
+                "id": "Nehemia",
+                "en": "Nehemiah"
+            },
+            "chapter": 13
+        },
+        {
+            "number": 17,
+            "abbr": {
+                "id": "Est",
+                "en": "Est"
+            },
+            "name": {
+                "id": "Ester",
+                "en": "Esther"
+            },
+            "chapter": 10
+        },
+        {
+            "number": 18,
+            "abbr": {
+                "id": "Ayb",
+                "en": "Job"
+            },
+            "name": {
+                "id": "Ayub",
+                "en": "Job"
+            },
+            "chapter": 42
+        },
+        {
+            "number": 19,
+            "abbr": {
+                "id": "Maz",
+                "en": "Psa"
+            },
+            "name": {
+                "id": "Mazmur",
+                "en": "Psalms"
+            },
+            "chapter": 150
+        },
+        {
+            "number": 20,
+            "abbr": {
+                "id": "Ams",
+                "en": "Pro"
+            },
+            "name": {
+                "id": "Amsal",
+                "en": "Proverbs"
+            },
+            "chapter": 31
+        },
+        {
+            "number": 21,
+            "abbr": {
+                "id": "Pkh",
+                "en": "Ecc"
+            },
+            "name": {
+                "id": "Pengkhotbah",
+                "en": "Ecclesiastes"
+            },
+            "chapter": 12
+        },
+        {
+            "number": 22,
+            "abbr": {
+                "id": "Kid",
+                "en": "Sos"
+            },
+            "name": {
+                "id": "Kidung Agung",
+                "en": "Song of Solomon"
+            },
+            "chapter": 8
+        },
+        {
+            "number": 23,
+            "abbr": {
+                "id": "Yes",
+                "en": "Isa"
+            },
+            "name": {
+                "id": "Yesaya",
+                "en": "Isaiah"
+            },
+            "chapter": 66
+        },
+        {
+            "number": 24,
+            "abbr": {
+                "id": "Yer",
+                "en": "Jer"
+            },
+            "name": {
+                "id": "Yeremia",
+                "en": "Jeremiah"
+            },
+            "chapter": 52
+        },
+        {
+            "number": 25,
+            "abbr": {
+                "id": "Rat",
+                "en": "Lam"
+            },
+            "name": {
+                "id": "Ratapan",
+                "en": "Lamentations"
+            },
+            "chapter": 5
+        },
+        {
+            "number": 26,
+            "abbr": {
+                "id": "Yeh",
+                "en": "Eze"
+            },
+            "name": {
+                "id": "Yehezkiel",
+                "en": "Ezekiel"
+            },
+            "chapter": 48
+        },
+        {
+            "number": 27,
+            "abbr": {
+                "id": "Dan",
+                "en": "Dan"
+            },
+            "name": {
+                "id": "Daniel",
+                "en": "Daniel"
+            },
+            "chapter": 12
+        },
+        {
+            "number": 28,
+            "abbr": {
+                "id": "Hos",
+                "en": "Hos"
+            },
+            "name": {
+                "id": "Hosea",
+                "en": "Hosea"
+            },
+            "chapter": 14
+        },
+        {
+            "number": 29,
+            "abbr": {
+                "id": "Yoe",
+                "en": "Joe"
+            },
+            "name": {
+                "id": "Yoel",
+                "en": "Joel"
+            },
+            "chapter": 3
+        },
+        {
+            "number": 30,
+            "abbr": {
+                "id": "Amo",
+                "en": "Amo"
+            },
+            "name": {
+                "id": "Amos",
+                "en": "Amos"
+            },
+            "chapter": 9
+        },
+        {
+            "number": 31,
+            "abbr": {
+                "id": "Oba",
+                "en": "Oba"
+            },
+            "name": {
+                "id": "Obaja",
+                "en": "Obadiah"
+            },
+            "chapter": 1
+        },
+        {
+            "number": 32,
+            "abbr": {
+                "id": "Yun",
+                "en": "Jon"
+            },
+            "name": {
+                "id": "Yunus",
+                "en": "Jonah"
+            },
+            "chapter": 4
+        },
+        {
+            "number": 33,
+            "abbr": {
+                "id": "Mik",
+                "en": "Mic"
+            },
+            "name": {
+                "id": "Mikha",
+                "en": "Micah"
+            },
+            "chapter": 7
+        },
+        {
+            "number": 34,
+            "abbr": {
+                "id": "Nah",
+                "en": "Nah"
+            },
+            "name": {
+                "id": "Nahum",
+                "en": "Nahum"
+            },
+            "chapter": 3
+        },
+        {
+            "number": 35,
+            "abbr": {
+                "id": "Hab",
+                "en": "Hab"
+            },
+            "name": {
+                "id": "Habakuk",
+                "en": "Habakkuk"
+            },
+            "chapter": 3
+        },
+        {
+            "number": 36,
+            "abbr": {
+                "id": "Zef",
+                "en": "Zep"
+            },
+            "name": {
+                "id": "Zefanya",
+                "en": "Zephaniah"
+            },
+            "chapter": 3
+        },
+        {
+            "number": 37,
+            "abbr": {
+                "id": "Hag",
+                "en": "Hag"
+            },
+            "name": {
+                "id": "Hagai",
+                "en": "Haggai"
+            },
+            "chapter": 2
+        },
+        {
+            "number": 38,
+            "abbr": {
+                "id": "Zak",
+                "en": "Zec"
+            },
+            "name": {
+                "id": "Zakharia",
+                "en": "Zechariah"
+            },
+            "chapter": 14
+        },
+        {
+            "number": 39,
+            "abbr": {
+                "id": "Mal",
+                "en": "Mal"
+            },
+            "name": {
+                "id": "Maleakhi",
+                "en": "Malachi"
+            },
+            "chapter": 4
+        },
+        {
+            "number": 40,
+            "abbr": {
+                "id": "Mat",
+                "en": "Mat"
+            },
+            "name": {
+                "id": "Matius",
+                "en": "Matthew"
+            },
+            "chapter": 28
+        },
+        {
+            "number": 41,
+            "abbr": {
+                "id": "Mar",
+                "en": "Mar"
+            },
+            "name": {
+                "id": "Markus",
+                "en": "Mark"
+            },
+            "chapter": 16
+        },
+        {
+            "number": 42,
+            "abbr": {
+                "id": "Luk",
+                "en": "Luk"
+            },
+            "name": {
+                "id": "Lukas",
+                "en": "Luke"
+            },
+            "chapter": 24
+        },
+        {
+            "number": 43,
+            "abbr": {
+                "id": "Yoh",
+                "en": "Joh"
+            },
+            "name": {
+                "id": "Yohanes",
+                "en": "John"
+            },
+            "chapter": 21
+        },
+        {
+            "number": 44,
+            "abbr": {
+                "id": "Kis",
+                "en": "Act"
+            },
+            "name": {
+                "id": "Kisah Para Rasul",
+                "en": "Acts"
+            },
+            "chapter": 28
+        },
+        {
+            "number": 45,
+            "abbr": {
+                "id": "Rom",
+                "en": "Rom"
+            },
+            "name": {
+                "id": "Roma",
+                "en": "Romans"
+            },
+            "chapter": 16
+        },
+        {
+            "number": 46,
+            "abbr": {
+                "id": "1 Kor",
+                "en": "1 Cor"
+            },
+            "name": {
+                "id": "1 Korintus",
+                "en": "1 Corinthians"
+            },
+            "chapter": 16
+        },
+        {
+            "number": 47,
+            "abbr": {
+                "id": "2 Kor",
+                "en": "2 Cor"
+            },
+            "name": {
+                "id": "2 Korintus",
+                "en": "2 Corinthians"
+            },
+            "chapter": 13
+        },
+        {
+            "number": 48,
+            "abbr": {
+                "id": "Gal",
+                "en": "Gal"
+            },
+            "name": {
+                "id": "Galatia",
+                "en": "Galatians"
+            },
+            "chapter": 6
+        },
+        {
+            "number": 49,
+            "abbr": {
+                "id": "Efe",
+                "en": "Eph"
+            },
+            "name": {
+                "id": "Efesus",
+                "en": "Ephesians"
+            },
+            "chapter": 6
+        },
+        {
+            "number": 50,
+            "abbr": {
+                "id": "Flp",
+                "en": "Php"
+            },
+            "name": {
+                "id": "Filipi",
+                "en": "Philippians"
+            },
+            "chapter": 4
+        },
+        {
+            "number": 51,
+            "abbr": {
+                "id": "Kol",
+                "en": "Col"
+            },
+            "name": {
+                "id": "Kolose",
+                "en": "Colossians"
+            },
+            "chapter": 4
+        },
+        {
+            "number": 52,
+            "abbr": {
+                "id": "1 Tes",
+                "en": "1 The"
+            },
+            "name": {
+                "id": "1 Tesalonika",
+                "en": "1 Thessalonians"
+            },
+            "chapter": 5
+        },
+        {
+            "number": 53,
+            "abbr": {
+                "id": "2 Tes",
+                "en": "2 The"
+            },
+            "name": {
+                "id": "2 Tesalonika",
+                "en": "2 Thessalonians"
+            },
+            "chapter": 3
+        },
+        {
+            "number": 54,
+            "abbr": {
+                "id": "1 Tim",
+                "en": "1 Tim"
+            },
+            "name": {
+                "id": "1 Timotius",
+                "en": "1 Timothy"
+            },
+            "chapter": 6
+        },
+        {
+            "number": 55,
+            "abbr": {
+                "id": "2 Tim",
+                "en": "2 Tim"
+            },
+            "name": {
+                "id": "2 Timotius",
+                "en": "2 Timothy"
+            },
+            "chapter": 4
+        },
+        {
+            "number": 56,
+            "abbr": {
+                "id": "Tit",
+                "en": "Tit"
+            },
+            "name": {
+                "id": "Titus",
+                "en": "Titus"
+            },
+            "chapter": 3
+        },
+        {
+            "number": 57,
+            "abbr": {
+                "id": "Flm",
+                "en": "Phm"
+            },
+            "name": {
+                "id": "Filemon",
+                "en": "Philemon"
+            },
+            "chapter": 1
+        },
+        {
+            "number": 58,
+            "abbr": {
+                "id": "Ibr",
+                "en": "Heb"
+            },
+            "name": {
+                "id": "Ibrani",
+                "en": "Hebrews"
+            },
+            "chapter": 13
+        },
+        {
+            "number": 59,
+            "abbr": {
+                "id": "Yak",
+                "en": "Jam"
+            },
+            "name": {
+                "id": "Yakobus",
+                "en": "James"
+            },
+            "chapter": 5
+        },
+        {
+            "number": 60,
+            "abbr": {
+                "id": "1 Pet",
+                "en": "1 Pet"
+            },
+            "name": {
+                "id": "1 Petrus",
+                "en": "1 Peter"
+            },
+            "chapter": 5
+        },
+        {
+            "number": 61,
+            "abbr": {
+                "id": "2 Pet",
+                "en": "2 Pet"
+            },
+            "name": {
+                "id": "2 Petrus",
+                "en": "2 Peter"
+            },
+            "chapter": 3
+        },
+        {
+            "number": 62,
+            "abbr": {
+                "id": "1 Yoh",
+                "en": "1 Joh"
+            },
+            "name": {
+                "id": "1 Yohanes",
+                "en": "1 John"
+            },
+            "chapter": 5
+        },
+        {
+            "number": 63,
+            "abbr": {
+                "id": "2 Yoh",
+                "en": "2 Joh"
+            },
+            "name": {
+                "id": "2 Yohanes",
+                "en": "2 John"
+            },
+            "chapter": 1
+        },
+        {
+            "number": 64,
+            "abbr": {
+                "id": "3 Yoh",
+                "en": "3 Joh"
+            },
+            "name": {
+                "id": "3 Yohanes",
+                "en": "3 John"
+            },
+            "chapter": 1
+        },
+        {
+            "number": 65,
+            "abbr": {
+                "id": "Yud",
+                "en": "Jud"
+            },
+            "name": {
+                "id": "Yudas",
+                "en": "Jude"
+            },
+            "chapter": 1
+        },
+        {
+            "number": 66,
+            "abbr": {
+                "id": "Wah",
+                "en": "Rev"
+            },
+            "name": {
+                "id": "Wahyu",
+                "en": "Revelation"
+            },
+            "chapter": 22
+        }
+    ]
+}

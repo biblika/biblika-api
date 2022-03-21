@@ -1,0 +1,7 @@
+GET https://biblika.herokuapp.com/v1/book/list
+Content-Type: application/json
+
+###
+
+GET https://biblika.herokuapp.com/v1/passage/Gen/1/net
+Content-Type: application/json

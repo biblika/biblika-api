@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option go_package = "/passage";
+
+import "google/api/annotations.proto";
+
+message PassageRequest {
+    string book = 1;
+    int32 chapter = 2;
+    string version = 3;
+}
+
+message Verse {
+    int32 verse = 1;
+    string type = 2;
+    string content = 3;
+}
+
+message PassageResponse {
+    repeated Verse verse = 1;
+}
+
+service PassageService {
+    rpc Passage(PassageRequest) returns (PassageResponse) {
+        option (google.api.http) = {
+            get: "/v1/passage/{book}/{chapter}/{version}"
+        };
+    }
+}
